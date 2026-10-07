@@ -39,4 +39,7 @@ node ./report.js
 <img width="723" height="492" alt="newman 2" src="https://github.com/user-attachments/assets/4bfa659b-2858-4c51-a91b-84872d875ceb" />
 <img width="712" height="747" alt="newman1" src="https://github.com/user-attachments/assets/4ee28f40-c736-4f1d-a676-e59bc6d295bf" />
 
+## Bug Reporting [Bug Report](https://docs.google.com/document/d/10eDs9a6I8R2KNBxS0x8QaUOGOgsW6mlv5mhM9_S2bfA/edit?tab=t.0)
+## Automation Video [https://drive.google.com/drive/u/4/folders/13SbQM0ptQKqB8qflIu0IQ8_jhsP2dJRd]
+
 

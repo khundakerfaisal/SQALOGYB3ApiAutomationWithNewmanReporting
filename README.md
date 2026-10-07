@@ -21,7 +21,6 @@ https://github.com/khundakerfaisal/SQALOGYB3ApiAutomationWithNewmanReporting.git
 **Hit The command**
 ``` bash
 npm init -y
-npm i newman
 ```
 ``` bash
 npm i newman
@@ -36,6 +35,8 @@ npm i newman-reporter-htmlextra
 node ./report.js
 ```
 
-
+## Newman report
+<img width="723" height="492" alt="newman 2" src="https://github.com/user-attachments/assets/4bfa659b-2858-4c51-a91b-84872d875ceb" />
+<img width="712" height="747" alt="newman1" src="https://github.com/user-attachments/assets/4ee28f40-c736-4f1d-a676-e59bc6d295bf" />
 
 

@@ -12,4 +12,10 @@ This is employee api automation project.THis project is faclated to create Emplo
 
 ## API Documentation [Employee API Documentation](https://documenter.getpostman.com/view/25113210/2sB3BLhSC1#intro)
 
-[Test Cases](https://drive.google.com/drive/u/4/my-drive)
+## How To run this Project
+
+```Clone Project```
+``` bash
+https://github.com/khundakerfaisal/SQALOGYB3ApiAutomationWithNewmanReporting.git
+```
+

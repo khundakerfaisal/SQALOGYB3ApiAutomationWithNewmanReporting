@@ -18,6 +18,23 @@ This is employee api automation project.THis project is faclated to create Emplo
 ``` bash
 https://github.com/khundakerfaisal/SQALOGYB3ApiAutomationWithNewmanReporting.git
 ```
+**Hit The command**
+``` bash
+npm init -y
+```
+``` bash
+npm i newman
+```
+``` bash
+npx newman run [collection] -e ["enviornment"]
+```
+``` bash
+npm i newman-reporter-htmlextra
+```
+``` bash
+node ./report.js
+```
+
 
 
 

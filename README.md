@@ -14,7 +14,7 @@ This is employee api automation project.THis project is faclated to create Emplo
 
 ## How To run this Project
 
-```**Clone Project**```
+**Clone Project**
 ``` bash
 https://github.com/khundakerfaisal/SQALOGYB3ApiAutomationWithNewmanReporting.git
 ```

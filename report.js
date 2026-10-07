@@ -3,7 +3,7 @@ const newman = require('newman');
 newman.run({
 
     collection: `SQALOGY_B3_EmployeeApi.postman_collection.json`,
-    environment:`SQALOGYB3TestEnv.postman_environment.json`,
+    // environment:`SQALOGYB3TestEnv.postman_environment.json`,
     reporters: 'htmlextra',
     iterationCount: 1,
     reporter: {

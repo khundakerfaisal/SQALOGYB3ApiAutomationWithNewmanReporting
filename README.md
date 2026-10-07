@@ -21,6 +21,7 @@ https://github.com/khundakerfaisal/SQALOGYB3ApiAutomationWithNewmanReporting.git
 **Hit The command**
 ``` bash
 npm init -y
+npm i newman
 ```
 ``` bash
 npm i newman

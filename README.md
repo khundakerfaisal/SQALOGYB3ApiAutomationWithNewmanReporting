@@ -11,3 +11,5 @@ This is employee api automation project.THis project is faclated to create Emplo
 - visual studion code
 
 ## API Documentation [Employee API Documentation](https://documenter.getpostman.com/view/25113210/2sB3BLhSC1#intro)
+
+[Test Cases](https://drive.google.com/drive/u/4/my-drive)
